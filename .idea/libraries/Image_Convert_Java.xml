@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Image Convert Java">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/image4j-0.7.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
